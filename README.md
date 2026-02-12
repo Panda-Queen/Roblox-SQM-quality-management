@@ -13,6 +13,16 @@ I focus on:
 - Safety tools (reporting, chat filtering, privacy settings)
 - Payments/Robux from a player view
 
+## Quality Policy
+For this SQM case study, quality will be managed using these rules:
+
+1. Safety and payments come first (child safety, reporting, privacy, accounts, Robux/payments).
+2. Every defect/risk must have severity and priority.
+3. Critical flows must be checked before release (login, join, chat, report, payments).
+4. We measure quality using simple metrics (uptime, crash/disconnect rate, join time, report success rate).
+5. Every GitHub issue must include traceability (report section + ID D# or R#).
+
+
 ## Quality Model (ISO 25010) used
 - Reliability
 - Performance Efficiency
