@@ -22,7 +22,6 @@ For this SQM case study, quality will be managed using these rules:
 4. We measure quality using simple metrics (uptime, crash/disconnect rate, join time, report success rate).
 5. Every GitHub issue must include traceability (report section + ID D# or R#).
 
-
 ## Quality Model (ISO 25010) used
 - Reliability
 - Performance Efficiency
