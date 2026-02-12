@@ -36,7 +36,7 @@ Issues move in the board:
 To Do → In Progress → Review/QA → Done
 
 ## Traceability Rule
-Every Issue must include:
+Every Issue includes:
 - Report section number
 - Defect ID (D1–D10) or Risk ID (R1–R6)
 
