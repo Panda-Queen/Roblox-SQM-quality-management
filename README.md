@@ -51,4 +51,4 @@ Every Issue includes:
 - Defect ID (D1–D10) or Risk ID (R1–R6)
 
 Example:
-Traceability: Report Section 4, Defect D4
+Traceability: Report Section 4.1 (Defects Table), Defect ID: D4
